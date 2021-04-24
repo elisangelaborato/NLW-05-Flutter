@@ -1,6 +1,6 @@
 # devquiz
 
-A new Flutter project.
+Treinamento Rocketseat, NLW #05, trilha Flutter
 
 ## Getting Started
 
